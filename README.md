@@ -16,3 +16,6 @@ go build -ldflags="-s -w" -o go-socks.exe main.go
 socks5 Server_B_ip 1080
 ```
 Now run go-socks.exe on Server B; it will open a SOCKS proxy on port 1080 on Server B.
+
+# Disclaimer
+The author is not responsible for unauthorized use of this tool. Use responsibly and ensure compliance with legal and ethical standards.

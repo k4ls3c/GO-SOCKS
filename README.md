@@ -1,7 +1,7 @@
 # GO-SOCKS
 Socks proxy in Golang
 
-# Scenario
+# Senario
 ![image](https://github.com/user-attachments/assets/3a49392d-6a23-444f-87fb-97dd03d88823)
 
 Let's say you want to access Server C. However, you could only access it via Server B. To achieve this, we will run a SOCKS proxy on Server B and use that to pivot internally.
